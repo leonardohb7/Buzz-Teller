@@ -60,7 +60,7 @@ a {
     text-align: center;
     line-height: 100%;
     transition: hover .5s;
-    
+    display: none;
     &:hover {
         animation: btn-up 1s infinite; 
     }
@@ -69,6 +69,11 @@ a {
         color: var(--color-pink);
     }
 }
+
+.home-button-show {
+    display: block;
+}
+
 .marca {
     position: absolute;
     z-index: 0;
