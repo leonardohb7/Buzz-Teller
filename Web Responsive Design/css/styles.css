@@ -173,7 +173,7 @@ a {
 
 .background {
     width: 100%;
-    height: 77.6rem;
+    height: 81rem;
     background: url(../images/imagem-fundo.png) var(--color-lightgray) 50% / cover no-repeat;
     display: flex;
     flex-direction: column;
